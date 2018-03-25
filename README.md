@@ -1,1 +1,1 @@
-# Dise-o-y-Programaci-n-de-Sistemas
+# Asignatura Diseño y Programación de Sistemas, mención: Ingeniería de Computadores
